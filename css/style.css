@@ -1,0 +1,207 @@
+.gol{
+	background-color: #222;
+    background-image: url(../img/infinite-loop-01.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 375px;
+    position: relative;
+}
+.navgol{
+	position: fixed;
+    width: 100%;
+    z-index: 1000;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+.logo{
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo p{
+	color: white; 
+	font-size: 2.6rem;
+}
+
+.menu{
+	color: white;
+	font-size: 2.6rem;
+}
+.reg{
+	color: white; 
+	font-size: 2.6rem;
+}
+.str2{
+	padding-top: 80px;
+    padding-bottom: 40px;
+	box-sizing: border-box;
+}
+.container{
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navtext{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.navboxtext{
+	padding-left: 15px; 
+    padding-top: 50px; 
+    max-width: 1150px; 
+    margin-left: auto;
+    margin-right: auto;
+	color: black; 
+	font-size: 2.6rem;
+}
+.navobzdva{
+	padding-top: 20px;
+    padding-bottom: 40px;
+	display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.conboxtext{
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.context{
+	padding-left: 15px;
+    padding-top: 30px;
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+	font-size: 2.6rem;
+}
+.icon{
+	padding-left: 15px;
+    padding-top: 30px;
+    max-width: 1100px;
+    margin-left: 45%;
+    margin-right: 50%;
+}
+.icon img{
+	width: 150px ;
+	height: 150px;
+}
+.bt button{
+	color: white;
+    background-color: #369;
+    padding: 34px 60px;
+	
+}
+.bt a{
+	font-size: 2.6rem;
+}
+.str3{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.far{
+	color: white;
+    background-image: url(../img/infinite-loop-02.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 375px;
+    position: relative;
+}
+.conone{
+	display: flex;
+    justify-content: center;
+    margin-right: 300px;
+    margin-left: 300px;
+	color: white;
+	font-size: 2.6rem;
+}
+.textconone{
+	padding-top: 20px;
+    padding-bottom: 40px;
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.textconone h2{
+	text-align: center!important;
+}
+
+.textconone p{
+	text-align: center!important;
+}
+.contcom{
+	padding-top: 70px;
+    padding-bottom: 120px;
+}
+.contcomone{
+	    padding-top: 70px;
+    padding-bottom: 120px;
+}
+.icons img{
+	border-radius: 50%;
+    margin-bottom: 35px;
+}
+.str4{
+	background-attachment: fixed;
+    background-position: center center;
+}
+.for{
+	color: white;
+    background-color: #001828;
+    background-image: url(../img/infinite-loop-03.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 980px;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 100px;
+}
+.textcontact{
+	display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.contenttx{
+	text-align: center!important;
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 305px;
+    padding-left: 305px;
+	font-size: 2.6rem;
+}
+
+.ctbx{
+	margin: 20px 20px 20px 0;
+    width: 50%;
+    padding: 20px 2px;
+    border-radius: 6px;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+}
+
+button{
+	margin-left: 0;
+    margin-top: 20px;
+	font-size: 0.9em;
+    color: #fff;
+    background-color: #369;
+    width: 50%;
+    margin-bottom: 60px;
+}
+.navGol a{
+	color:white;
+	text-decoration: none;
+}
